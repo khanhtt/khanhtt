@@ -4,6 +4,9 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+# Certifications
+- [Professional Scrum Master™ I (PSM I)](https://www.credly.com/badges/9506ba24-3d3d-4b68-8f99-f40327ded451)
+
 <!---
 khanhtt/khanhtt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
