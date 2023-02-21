@@ -5,6 +5,10 @@
 - 📫 How to reach me ...
 
 # Certifications
+- [AWS Certified Developer - Associate](https://aw.certmetrics.com/amazon/public/verification.aspx)
+  `Credential ID: 01J8ZFFJNMEEQB3X`
+- [BTA Certified Blockchain Solution Architect](https://www.btacertified.com/dlink/ed0121c571dabe1baaca78d24ef60a8fd72a197208090cd3480f3ad168187230/certdisplayhash)
+- [BTA Certified Blockchain Developer - Ethereum](https://www.btacertified.com/dlink/bcddace03e7a50a6b5df25b8ea821b5791a3d2f0899830dd111dcad84b86f9db/certdisplayhash)
 - [Professional Scrum Master™ I (PSM I)](https://www.credly.com/badges/9506ba24-3d3d-4b68-8f99-f40327ded451)
 
 <!---
