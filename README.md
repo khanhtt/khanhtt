@@ -8,6 +8,12 @@
 
 # Certifications
 
+## AWS Certified Solutions Architect - Associate
+`Credential ID: GC0FHZT191REQ7CC`
+
+[<img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" height="300">](https://aw.certmetrics.com/amazon/public/verification.aspx)
+
+
 ## AWS Certified Developer - Associate
 `Credential ID: 01J8ZFFJNMEEQB3X`
 
