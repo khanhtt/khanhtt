@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @khanhtt
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on website, mobile, blockchain, AI development
+- 📫 How to reach me k@khanh.tech
 
 
 
@@ -24,7 +24,7 @@
 [<img src="https://bta-site-images.s3.us-east-2.amazonaws.com/v1-eth.png" height="300">](https://www.btacertified.com/dlink/bcddace03e7a50a6b5df25b8ea821b5791a3d2f0899830dd111dcad84b86f9db/certdisplayhash)
 
 
-[<img src="https://images.credly.com/size/680x680/images/a2790314-008a-4c3d-9553-f5e84eb359ba/image.png" height="300">](https://www.credly.com/badges/9506ba24-3d3d-4b68-8f99-f40327ded451)
+[<img src="https://images.credly.com/size/680x680/images/a2790314-008a-4c3d-9553-f5e84eb359ba/image.png" height="300">](https://www.credly.com/badges/9506ba24-3d3d-4b68-8f99-f40327ded451/public_url)
 
 
 <!---
