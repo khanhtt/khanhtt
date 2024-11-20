@@ -11,13 +11,13 @@
 ## AWS Certified Solutions Architect - Associate
 `Credential ID: GC0FHZT191REQ7CC`
 
-[<img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" height="300">](https://aw.certmetrics.com/amazon/public/verification.aspx)
+[<img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" height="300">](https://www.credly.com/badges/f559fc3a-70a9-428f-ab63-39d44eed7e08/public_url)
 
 
 ## AWS Certified Developer - Associate
 `Credential ID: 01J8ZFFJNMEEQB3X`
 
-[<img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Developer-Associate_badge.5c083fa855fe82c1cf2d0c8b883c265ec72a17c0.png" height="300">](https://aw.certmetrics.com/amazon/public/verification.aspx)
+[<img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Developer-Associate_badge.5c083fa855fe82c1cf2d0c8b883c265ec72a17c0.png" height="300">](https://www.credly.com/badges/b8d96038-baf8-4f67-a00d-0ed5da99e4dd/public_url)
 
 [<img src="https://bta-site-images.s3.us-east-2.amazonaws.com/v1-sa.png"  height="300">](https://www.btacertified.com/dlink/ed0121c571dabe1baaca78d24ef60a8fd72a197208090cd3480f3ad168187230/certdisplayhash)
 
