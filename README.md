@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on website, mobile, blockchain, AI development
-- 📫 How to reach me k@khanh.tech
+- 📫 How to reach me k@kee.vn
 
 
 
