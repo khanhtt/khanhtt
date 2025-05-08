@@ -67,7 +67,9 @@
 
 ## 📈 GitLab Stats
 
-![GitLab Repo Count](https://9ionrke292.execute-api.ap-southeast-2.amazonaws.com)
+### GitLab Contribution Calendar
+
+<img src="https://your-api.com/gitlab-calendar" alt="GitLab Calendar" width="100%" />
 <br/>
 [View on GitLab »](https://gitlab.com/khanhcntt)
  
