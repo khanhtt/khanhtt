@@ -61,6 +61,20 @@
 
 ---
 
+## 📈 GitHub Stats
+
+![khanhtt's stats](https://github-readme-stats.vercel.app/api?username=khanhtt&show_icons=true&theme=tokyonight)
+
+## 📈 GitLab Stats
+
+![GitLab Repo Count](https://img.shields.io/badge/GitLab%20Projects-12-orange?logo=gitlab)
+<br/>
+[View on GitLab »](https://gitlab.com/khanhcntt)
+ 
+<sub>📷 Snapshot from GitLab profile – [@khanhcntt on GitLab](https://gitlab.com/khanhcntt)</sub>
+
+---
+
 ## 📬 Let's Connect
 
 - 💼 [LinkedIn](https://linkedin.com/in/khanhtong)  
