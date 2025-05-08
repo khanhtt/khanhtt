@@ -67,10 +67,8 @@
 
 ## 📈 GitLab Stats
 
-### GitLab Contribution Calendar
+<img src="https://9ionrke292.execute-api.ap-southeast-2.amazonaws.com/?user=khanhcntt" width="100%" alt="GitLab Calendar Heatmap" />
 
-<img src="https://your-api.com/gitlab-calendar" alt="GitLab Calendar" width="100%" />
-<br/>
 [View on GitLab »](https://gitlab.com/khanhcntt)
  
 <sub>📷 Snapshot from GitLab profile – [@khanhcntt on GitLab](https://gitlab.com/khanhcntt)</sub>
