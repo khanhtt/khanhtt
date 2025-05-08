@@ -67,7 +67,7 @@
 
 ## 📈 GitLab Stats
 
-![GitLab Repo Count](https://img.shields.io/badge/GitLab%20Projects-12-orange?logo=gitlab)
+![GitLab Repo Count](https://9ionrke292.execute-api.ap-southeast-2.amazonaws.com)
 <br/>
 [View on GitLab »](https://gitlab.com/khanhcntt)
  
